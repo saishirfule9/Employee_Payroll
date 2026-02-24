@@ -9,7 +9,7 @@ It allows users to add, view, update and remove employee records with a clean an
 The Employee Payroll System is built to handle basic payroll operations through a console menu.
 It stores employee information, calculates salaries and keeps records easy to manage.
 The application can be extended later with database integration or a web interface.
-cz
+
 
 ⚙️ Features
 
