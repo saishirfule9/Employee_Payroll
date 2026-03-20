@@ -4,7 +4,7 @@ A simple Java based console application that helps manage employee details and s
 It allows users to add, view, update and remove employee records with a clean and organized structure.
 
 
-📘 Project Overview
+📘 Project Overview  
 
 The Employee Payroll System is built to handle basic payroll operations through a console menu.
 It stores employee information, calculates salaries and keeps records easy to manage.
